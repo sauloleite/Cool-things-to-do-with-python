@@ -1,2 +1,2 @@
-# Cool-things-to-do-with-python
+# Utilities-with-Python
 Repository created to do some interesting things with python.
